@@ -1,7 +1,7 @@
-// const express = require("express");
+const express = require("express");
 // const { MongoClient } = require("mongodb");
 // import mongoose from "mongoose";
-import express from "express";
+// import express from "express";
 import { MongoClient } from "mongodb";
 import dotenv from "dotenv";
 
